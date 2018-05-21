@@ -1,2 +1,4 @@
-h1{color: blue}
+h1{color: blue;
+	text-align : left
+}
 li{color: red}
